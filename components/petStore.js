@@ -1,8 +1,5 @@
 import React from "react";
 import { View, Text, Image, StyleSheet } from "react-native";
-import { MaterialIcons } from "@expo/vector-icons";
-import { MaterialCommunityIcons } from "@expo/vector-icons";
-import { SimpleLineIcons } from "@expo/vector-icons";
 
 export default function Contacts({ name, phone }) {
   return (
